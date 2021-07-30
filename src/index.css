@@ -1,0 +1,23 @@
+*{margin:0;padding:0;box-sizing: border-box;}
+body{
+    background-color: aquamarine;
+}
+.card-content{
+    display:flex;
+    flex-direction:column;
+    
+
+}
+h1{
+    margin-left:60px;
+    color:royalblue;
+}
+.content-main{
+    display:flex;
+    flex-direction:row;
+    
+}
+.api{
+    margin-left:300px;
+    margin-top:20px;
+}

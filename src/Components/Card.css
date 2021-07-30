@@ -1,0 +1,29 @@
+#infobtn{
+    border:none;
+    border-radius:5px;
+    background-color: purple;
+    color:white;
+    width:200px;
+    height:38px;
+    margin-top:10px;
+}
+.card{
+    display:flex;
+    flex-direction:column ;
+    margin-top:20px;
+    margin-left:60px;
+    background-color: navy;
+    width:500px;
+    padding-left:50px;
+}
+
+.card:hover{
+    display:flex;
+    flex-direction:column ;
+    margin-top:20px;
+    margin-left:60px;
+    background-color: navy;
+    width:500px;
+    border:3px solid yellow;
+    padding-left:50px;
+}

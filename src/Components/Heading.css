@@ -1,0 +1,12 @@
+.heading{
+    background-color:blueviolet;
+padding-left:500px;
+}
+.titleandimage{
+    margin-left:100px;
+}
+.title{
+    color:white;
+    font-size:30px;
+    text-shadow:1px 1px white;
+}
